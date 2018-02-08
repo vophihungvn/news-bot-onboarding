@@ -1,0 +1,22 @@
+{
+  "name": "newsos-bot",
+  "version": "1.0.0",
+  "description": "NewsOS Bot to search data from Capi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "node-wit": "^4.3.0",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-watch": "^2.0.7"
+  }
+}
